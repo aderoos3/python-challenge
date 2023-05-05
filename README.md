@@ -10,4 +10,4 @@ What is shown is the total votes, the total months, the net total profit/loss an
 
 Overall, this challenge has shows that feedback can be very helpful. 
 
-Additionally, the instructor didn't have time to show up pushing and committing things to github. After a lot of searching I realized I had a security problem, but couldn't fully fix it. So, I uploaded the files. 
+Additionally, the instructor didn't have time to show up pushing and committing things to github. After a lot of searching I realized I had a security problem, but couldn't fully fix it. So, I uploaded the files. Hopefully, the upload is correct so all the paths in the code are correct. When I did them on my computer they worked. 
