@@ -46,13 +46,6 @@ with open(budget_csv) as csvfile:
     #Change in profit/loss and average change
     changespl = int(lastpl) - int(firstpl)
     averageChange = round(changespl/(monthCount-1),2)
-    
-    #add conditional statement in loop if change is bigger than the previous one then save as variable for greatest increase & decrease
-    #prevpl = int((row[1]) - 1)
-    
-    #if changespl > prevpl:
-        #increase = changespl
-        #increase = row[0]
         
     #print titles
     print("Financial Analysis")
